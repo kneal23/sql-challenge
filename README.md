@@ -14,7 +14,7 @@ SGL, Database servers, Entity Relationship Database (ERD), Foreign Keys, Primary
 Required CSVs, final ERD
 
 # EmployeeSQL
-Cleaned query with required information and analysis
+Cleaned query with required information and analysis AND tables schemata (combined .sql file)
 
 # Contributors
 StackOverflow,
