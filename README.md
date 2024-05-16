@@ -17,8 +17,7 @@ Required CSVs, final ERD
 Cleaned query with required information and analysis
 
 # Contributors
-StackOverflow
-ChatGPT
-QuickDatabaseDiagram: https://app.quickdatabasediagrams.com/#/ 
-PostgreSQL Tutorial: https://www.tutorialspoint.com/postgresql/postgresql_useful_functions.htm 
+StackOverflow,
+QuickDatabaseDiagram: https://app.quickdatabasediagrams.com/#/ ,
+PostgreSQL Tutorial: https://www.tutorialspoint.com/postgresql/postgresql_useful_functions.htm ,
 GitHub ReadMe Tutorial: https://github.com/othneildrew/Best-README-Template 
