@@ -11,7 +11,7 @@ pgAdmin4, PostgreSQL, Excel, Quick Database Diagrams (DBD)
 SGL, Database servers, Entity Relationship Database (ERD), Foreign Keys, Primary Keys, UNIONS, JOINS, GROUPBY, Frequencies, Table Creations
 
 # Resources Folder
-Required CSVs, final ERD
+Required CSVs, final ERD and image
 
 # EmployeeSQL
 Cleaned query with required information and analysis AND tables schemata (combined .sql file)
